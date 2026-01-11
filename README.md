@@ -13,4 +13,5 @@
 <pre>
 Electron Stable Build
 <pre>
-
+---
+Smart-Capture[DOWNLOAD](https://github.com/YASSER-27/Smart-Capture/releases/tag/1.0.0)
