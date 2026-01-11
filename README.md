@@ -1,7 +1,6 @@
- # Smart Capture
- ![logo](assets/icon.png)
+# Smart Capture
+![logo](assets/icon.png)
 
---
 # Smart Capture: Easily capture specific windows or the entire screen
 ## Ultra-HD Captures: Leverages 4K-ready capture technology to ensure pixel-perfect quality for text and high-resolution displays.
 
