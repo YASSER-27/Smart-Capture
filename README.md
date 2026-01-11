@@ -1,5 +1,5 @@
 # Smart Capture
-![logo](asstes/logo.png)
+![logo](assets/icon.png)
 
 ---
 # Smart Capture: Easily capture specific windows or the entire screen
