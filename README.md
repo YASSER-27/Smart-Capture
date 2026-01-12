@@ -9,6 +9,11 @@
 ### Global Hotkeys: Instant interface toggle via Alt+X and immediate full-screen capture using the PrintScreen key.
 
 ### Seamless Workflow: Automatically saves captures to the Desktop while simultaneously copying the image to the Clipboard for instant pasting into communication apps.
+| Action | Shortcut|
+| :--- | :--- |
+| **interface toggle** | Alt+X  |
+| **full-screen** | PrintScreen key |
+save in desktop
 ---
 [DOWNLOAD](https://github.com/YASSER-27/Smart-Capture/releases/tag/1.0.0)
 <pre>
